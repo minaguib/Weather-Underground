@@ -1,5 +1,7 @@
 Revision history for Perl extension Weather::Underground.
 
+3.03 Fix single location match thanks to several people submitting patches
+
 3.02	Fix single location matches returning nothing if there was a special advisory posted -
 		thanks to several people for the notice
 

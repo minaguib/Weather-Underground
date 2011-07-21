@@ -6,7 +6,7 @@ use LWP::Simple qw($ua get);
 use HTML::TokeParser;
 use Fcntl qw(:flock);
 
-$VERSION = '3.02';
+$VERSION = '3.03';
 
 #
 # GLOBAL Variables Assignments
