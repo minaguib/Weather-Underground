@@ -1,9 +1,5 @@
 package Weather::Underground;
 
-#
-# $Header: /cvsroot/weather::underground/Weather/Underground/Underground.pm,v 1.38 2005/09/25 19:22:02 mina Exp $
-#
-
 use strict;
 use vars qw($VERSION $CGI $CGIVAR $MYNAME $DEBUG %MODULES);
 use LWP::Simple qw($ua get);

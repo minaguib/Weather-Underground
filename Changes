@@ -1,5 +1,3 @@
-$Header: /cvsroot/weather::underground/Weather/Underground/Changes,v 1.25 2005/09/25 19:22:01 mina Exp $
-
 Revision history for Perl extension Weather::Underground.
 
 3.02	Fix single location matches returning nothing if there was a special advisory posted -
